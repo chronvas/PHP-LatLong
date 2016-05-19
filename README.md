@@ -9,4 +9,4 @@ Gets all the points to array, and measures the distance from a center point.
 If the distance is less than X meters, echo the coordinates and calculate how many points were found.
 
 Results:
-issues after 200k lines of select output, limit select output to avoid
+issues after 200k lines of select, limit select output to avoid
